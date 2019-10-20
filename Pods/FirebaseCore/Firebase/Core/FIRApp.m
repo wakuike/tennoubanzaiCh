@@ -99,7 +99,7 @@ static NSMutableArray<Class<FIRLibrary>> *sRegisteredAsConfigurable;
 
 #ifdef DEBUG
 @property(nonatomic) BOOL alreadyOutputDataCollectionFlag;
-#endif  // DEBUG
+#endif  // DEBUG？
 
 @end
 
