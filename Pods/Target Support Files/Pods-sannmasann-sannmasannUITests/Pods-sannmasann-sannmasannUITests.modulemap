@@ -1,0 +1,6 @@
+framework module Pods_sannmasann_sannmasannUITests {
+  umbrella header "Pods-sannmasann-sannmasannUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
